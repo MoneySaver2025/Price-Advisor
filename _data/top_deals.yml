@@ -1,0 +1,10 @@
+- name: Budget Laptop ABC (14")
+  price: £379
+  retailer: RetailerOne
+  url: https://example.com/product-abc
+  pros: Solid keyboard; decent battery; good value under £400
+- name: Noise-Cancelling Headphones XYZ
+  price: £89
+  retailer: RetailerTwo
+  url: https://example.com/headphones-xyz
+  pros: Good ANC for the price; comfortable; long battery life
